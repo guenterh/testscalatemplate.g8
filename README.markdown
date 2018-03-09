@@ -1,8 +1,8 @@
-A [Giter8][g8] template for starting a minimal Scala project using SBT 0.13.13 and Scala 2.12.1.
+A [Giter8][g8] template for starting a minimal Scala project using SBT 1.1.1 and Scala 2.12.4.
 
 Template license
 ----------------
-Written in 2016 by Daniel Westheide <dwestheide@googlemail.com>
+Written in 2016-2018 by Daniel Westheide <dwestheide@googlemail.com>
 
 To the extent possible under law, the author(s) have dedicated all copyright and related
 and neighboring rights to this template to the public domain worldwide.
