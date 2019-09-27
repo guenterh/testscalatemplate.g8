@@ -1,4 +1,4 @@
-scalaVersion := "2.13.1"
+scalaVersion := "2.13.0"
 
 libraryDependencies += "io.monix" %% "minitest" % "2.7.0" % "test"
 
